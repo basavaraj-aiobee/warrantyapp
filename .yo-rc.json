@@ -1,0 +1,46 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "warrantyapp",
+    "packageName": "com.ashirvad.warranty",
+    "packageFolder": "com/ashirvad/warranty",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling",
+      "cucumber",
+      "protractor"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.0.0",
+    "jwtSecretKey": "ZjI3NWI1MzEzZWIyNGM3NzY1OGI1N2QxM2E0YjM0ZWQ5MjFkMzc2ZDUyY2U5YTc5NzYzYzkzYmEzZmM5OGI2MDEwMDkwOTY2ZmY4OTE2MTU3ZmQ2ZDM4ODI0YWM1ZjkxZTc5ODE4M2E1OTNhNGNhNmUzY2UyZDQ0ZTA1NDU2MWY=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "basavaraj-aiobee",
+  "repository-name": "warrantyapp"
+}
